@@ -11,9 +11,9 @@ spring:
          path: /api-docs
 
    datasource:
-      url: jdbc:postgresql://localhost:5432/clinic
-      username: postgres
-      password: root
+      url: jdbc:postgresql://dpg-cpgbbhdds78s73b9e6gg-a.oregon-postgres.render.com:5432/clinic_ror6
+      username: root
+      password: 6FCsA0Pspj8862mdszbx0A1SuzVVwgbP
 
    jpa:
       properties:
